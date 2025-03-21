@@ -1,2 +1,2 @@
-# rag_related_world
+# RAG and Agentic AI
 some projects for rag and building agents
